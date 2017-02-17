@@ -1,4 +1,1 @@
-# NHANES-Discontent
-
-NHANES_SAD_RANDOM_FOREST.ipynb - practice building random forest classifiers in python          
-NHANES_data_sad.csv - data used in above notebook       
+The following analysis uses data from the 2012-2013 National Health and Nutritional Survey (NHANES). The outcome variable for the analysis represents a subject's answer to the question, "Over the last 2 weeks, how often have you been bothered by the following problem: feeling down, depressed, or hopeless?" An outcome of 1 represents people who did not report feeling down or depressed at all, an outcome of 2 represents people who reported feeling down or depressed ocassionally, and a value of 3 represents people who reported feeling down or depressed frequently. The primary goal of this analysis is to build a model to predict a person's response using basic demographic characteristics and lifestyle factors such as race, unemployment status, and educational attainment. We are particularly interested in identifying individuals with responses of 2 or 3.
