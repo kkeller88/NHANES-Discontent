@@ -1,1 +1,8 @@
+The outcome variable for this dataset is a categorical variable representing academic performance.       
+There are three levels to this variable representing low, medium, and high academic performance.       
+Support vector machines were used to build prediction models to classify students into one of the three      
+groups stated above.       
+         
+Data source: https://www.kaggle.com/aljarah/xAPI-Edu-Data
+
 
